@@ -5,7 +5,7 @@ Understanding EC2 instances and instance types
 Creating and managing EC2 instances
 Best practices for EC2 security and access management
 
-Unit 2: Elasticity and Scalability with EC2
+Unit 22: Elasticity and Scalability with EC2
 Auto Scaling and load balancing
 Scaling EC2 instances based on demand
 Designing highly available architectures with EC2
