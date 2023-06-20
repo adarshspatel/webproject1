@@ -1,5 +1,5 @@
 <?php
-$text = "Unit 1: Overview of Amazon EC2
+$text = "Unit 11: Overview of Amazon EC2
 Introduction to cloud computing and EC2
 Understanding EC2 instances and instance types
 Creating and managing EC2 instances
